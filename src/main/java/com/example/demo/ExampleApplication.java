@@ -8,6 +8,7 @@ public class ExampleApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ExampleApplication.class, args);
+		System.out.println("Adesso vediamo come la mettimao 11:42");
 	}
 
 }
